@@ -1,0 +1,23 @@
+{
+  "Default": {
+    "button_mappings": {
+      "A": "t",
+      "B": "y",
+      "X": "g",
+      "Y": "h",
+      "Back": "z",
+      "Start": "x",
+      "Guide": "c",
+      "LT": "u",
+      "RT": "o",
+      "DPad_Up": "1",
+      "DPad_Down": "2",
+      "DPad_Left": "3",
+      "DPad_Right": "4"
+    },
+    "sensitivity": 1.0,
+    "mouse_sensitivity": 0.5,
+    "mouse_enabled": true,
+    "logging_enabled": true
+  }
+}
